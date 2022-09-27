@@ -1,0 +1,26 @@
+h1 {
+	color:#34495E;
+	text-align: center;
+}
+
+body {
+	background-color:#C7FFE6;
+}
+
+p {
+	color:green;
+	border: 1px solid black;
+	margin: 50px;
+	text-align:center;
+}
+
+td {
+	color:green;
+	border: 1px ;
+	padding: 10px;
+	margin: 30px;
+	}
+h2 {
+	text-align:center;
+}
+

@@ -1,0 +1,1 @@
+package com.prodemy.spring.model;
